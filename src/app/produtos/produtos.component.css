@@ -32,7 +32,6 @@ p {
   border-radius: 50px;
   text-align: center;
   text-transform: uppercase;
-  
 }
 
 .btn-cancel {
@@ -132,7 +131,7 @@ BANNER
 }
 
 .banner__title {
-  font-size: 56px;
+  font-size: 40px;
   color: #fff;
   margin-top: 0;
   margin-bottom: 20px;
